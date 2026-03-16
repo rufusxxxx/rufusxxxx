@@ -1,5 +1,4 @@
-![CLOUDS GIF](https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif.gif)
-<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif.gif" alt="CLOUDS GIF" width="500">
+<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif.gif" alt="CLOUDS GIF" width="1000">
 <!--
 **rufusxxxx/rufusxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
