@@ -1,6 +1,6 @@
 ## Hi there 👋
-![CLOUDS Animation](https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/CLOUDS%202D%20VFX%20Animation%2C%20Ivan%20Boyko%20-%20VFX.gif)
-<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/CLOUDS%202D%20VFX%20Animation%2C%20Ivan%20Boyko%20-%20VFX.gif" alt="CLOUDS GIF" width="500">
+![CLOUDS Animation](https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif.gif)
+<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif.gif" alt="CLOUDS GIF" width="500">
 <!--
 **rufusxxxx/rufusxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
