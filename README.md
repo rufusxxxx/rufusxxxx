@@ -1,5 +1,6 @@
 ## Hi there 👋
 https://github.com/rufusxxxx/rufusxxxx/blob/main/.github/assets/%C2%ABCLOUDS%C2%BB%202D%20VFX%20Animation%2C%20Ivan%20Boyko%20-%20VFX.gif
+https://github.com/rufusxxxx/rufusxxxx/blob/main/.github/assets/%C2%ABCLOUDS%C2%BB%202D%20VFX%20Animation,%20Ivan%20Boyko%20-%20VFX.gif?raw=true
 <!--
 **rufusxxxx/rufusxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
