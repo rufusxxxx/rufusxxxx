@@ -5,7 +5,7 @@
   <br>
 
   <a href="https://open.spotify.com/user/31wh2mlekimceclhmxmlfcxnm3p4?si=14f003a4ef6544e6" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/250px-Spotify_App_Logo.svg.png" width="80" style="margin-right: 20px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Spotify_App_Logo.svg/250px-Spotify_App_Logo.svg.png" width="80" style="margin-right: 10px;">
   </a>
 
   <a href="https://soundcloud.com/montes914?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">
