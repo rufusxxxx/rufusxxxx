@@ -4,11 +4,20 @@
 
   <br>
 
+  <!-- Spotify -->
   <a href="https://open.spotify.com/user/31wh2mlekimceclhmxmlfcxnm3p4?si=14f003a4ef6544e6" target="_blank">
     <img src="https://wwwmarketing.scdn.co/img/structured-data/logo.png" width="70" alt="Spotify">
   </a>
 
+  <br><br>
+
+  <!-- SoundCloud -->
+  <a href="https://soundcloud.com/montes914?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Soundcloud_logo.svg/1920px-Soundcloud_logo.svg.png" width="120" alt="SoundCloud">
+  </a>
+
 </details>
+
 
 <!--
 **rufusxxxx/rufusxxxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
