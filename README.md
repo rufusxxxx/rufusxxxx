@@ -6,5 +6,4 @@
   <a> </a>
   <a href="https://soundcloud.com/montes914?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank"><img src="https://i.postimg.cc/hGtBqWQ5/pngwing-com.png" width="20"></a>
   <a> </a>
-<a href="https://steamcommunity.com/id/ssxxxx666/" target="_blank"><a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/rpFsfxKJ/Steam-Logo.png' border='0' alt='Steam-Logo'></a></a>
 </details>
