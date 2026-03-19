@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif3" alt="CLOUDS GIF" width="1000">
+<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif3.gif" alt="CLOUDS GIF" width="1000">
 <details>
 <summary><b>𝖘𝖔𝖈𝖎𝖆𝖑𝖘</b></summary>
 <br>
