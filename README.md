@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif3.gif" alt="CLOUDS GIF" width="1000">
-<img src="https://via.placeholder.com/1000x1/cccccc/cccccc" alt="" width="100%" style="display:block; margin:20px 0;">
+<hr>
 <details>
 <summary><b>𝖘𝖔𝖈𝖎𝖆𝖑𝖘</b></summary>
 <br>
