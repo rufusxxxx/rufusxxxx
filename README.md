@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif3.gif" alt="CLOUDS GIF" width="1000">
-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+________________________________________________________________________________________________________________________________
 <details>
 <summary><b>𝖘𝖔𝖈𝖎𝖆𝖑𝖘</b></summary>
 <br>
