@@ -1,3 +1,4 @@
+<hr>
 <img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif3.gif" alt="CLOUDS GIF" width="1000">
 <hr>
 <details>
