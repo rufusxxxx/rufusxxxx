@@ -1,6 +1,9 @@
 <hr>
 <img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif3.gif" alt="CLOUDS GIF" width="1000">
 <hr>
+─────────⚪───────────────────────────────────────────
+◄◄ ▐▐ ⠀►►⠀⠀　　⠀ 0:25 / 2:26　 　⠀ ──○─ 🔊⠀　　ᴴᴰ ⚙ ❐
+<hr>
 <details>
 <summary><b>𝖘𝖔𝖈𝖎𝖆𝖑𝖘</b></summary>
 <br>
