@@ -1,5 +1,5 @@
 <hr>
-<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif3.gif" alt="CLOUDS GIF" width="1000">
+<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif4.gif" alt="CLOUDS GIF" width="1000">
 <hr>
 𝖕𝖆𝖗𝖙-𝖙𝖎𝖒𝖊 𝖍𝖊𝖆𝖗𝖙𝖇𝖗𝖊𝖆𝖐𝖊𝖗, 𝖋𝖚𝖑𝖑-𝖙𝖎𝖒𝖊 𝖑𝖊𝖌𝖊𝖓𝖉.<br>  
 𝖄𝖊𝖆𝖍, 𝕴 𝖜𝖗𝖎𝖙𝖊 𝖆 𝖇𝖎𝖙 𝖔𝖋 𝖈𝖔𝖉𝖊 — 𝖔𝖓𝖑𝖞 𝖜𝖍𝖊𝖓 𝖙𝖍𝖊𝖗𝖊’𝖘 𝖑𝖎𝖙𝖊𝖗𝖆𝖑𝖑𝖞 𝖓𝖔𝖙𝖍𝖎𝖓𝖌 𝖇𝖊𝖙𝖙𝖊𝖗 𝖙𝖔 𝖉𝖔 𝖔𝖗 𝖜𝖍𝖊𝖓 𝖘𝖔𝖒𝖊𝖔𝖓𝖊 𝖐𝖊𝖊𝖕𝖘 𝖇𝖔𝖙𝖍𝖊𝖗𝖎𝖓𝖌 𝖒𝖊 𝖜𝖎𝖙𝖍 𝖜𝖔𝖗𝖐…<br>
