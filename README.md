@@ -1,5 +1,5 @@
 <hr>
-<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/d3a8e8880e76819d559a222bd308e0bd_720w-Picwand-ezgif.com-optimize (1).gif" alt="CLOUDS GIF" width="1000">
+<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/ezgif.com-resize.gif" alt="CLOUDS GIF" width="1000">
 <hr>
 𝕯𝖆𝖒𝖓..<br>
 <hr>
