@@ -1,5 +1,5 @@
 <hr>
-<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/Без названия.jpg" alt="CLOUDS GIF" width="1000">
+<img src="https://raw.githubusercontent.com/rufusxxxx/rufusxxxx/main/.github/assets/gif2.gif" alt="CLOUDS GIF" width="1000">
 <hr>
 𝕯𝖆𝖒𝖓..<br>
 <hr>
